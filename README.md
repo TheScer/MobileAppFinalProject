@@ -23,3 +23,13 @@ React Native
 | Language      | react native |
 | google play link   |http://… (will be updated when ready)|
 | app store link |http://… (will be updated when ready)|
+
+|                  |                                                                                                                                                                                                                                                                            |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Name             | Victor Starck                                                                                                                                                                                                                                                              |
+| Topic            | App using the wine searcher api https://www.wine-searcher.com/ws-api to view wines available in your countries, see wine details, search the wine you've bought, check pricing |
+| Target           | Android                                                                                                                                                                                                                                                    |
+| Language         | React Native?                                                                                                                                                                                                                                           |
+| Google Play link | http://… (will be updated when ready)                                                                                                                                                                                                                                      |
+| App Store link   | http://… (will be updated when ready)                                                                                                                                                                                                                                      |
+

@@ -1,18 +1,7 @@
 # MobileAppFinalProject
-mobile app using Wine API
+mobile app using pokeapi
 
-
-1) this wine API is not normally free but I have still requested access for free as a student, hopefully they will allow it
-
-
-| Name             | Oscar Hero   |
-|------------------|--------------|
-| Topic            | App using the wine searcher api https://www.wine-searcher.com/ws-api to view wines available in your countries, see wine details, search the wine you've bought, check pricing |
-| Target           | Android     |
-| Language         | Kotlin      |
-| Google Play link | http://… (will be updated when ready)|
-
-2) Pokemon App if the winesearch API refuses me access
+Pokemon App
 
 |Name             |Oscar Hero|
 |------------------|--------------|

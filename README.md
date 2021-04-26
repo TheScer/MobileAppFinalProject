@@ -10,16 +10,6 @@ Pokemon App
 | Language         | Kotlin|
 | Google Play link | http://… (will be updated when ready)|
 
-currently very very barebones.
-
-2 super basic UI views which show no data, there is only work being done in the backend.
-
-dummy choice for search as "charmander" currently setup for the URL connection
-
-API is properly called and classes for the JSON data is setup
-
-JSON data is also properly parsed to get the basic sprite of the pokemon.
-
 # Pokemon Data APP
 
 this app is designed to allow users to easily search up a pokemon and find data about it.

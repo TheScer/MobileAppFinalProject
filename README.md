@@ -19,7 +19,7 @@ this app is designed to allow users to easily search up a pokemon and find data 
 Help users search up pokemon sprites and data, and hopefully eventually search up other different aspects of pokemon and 
 even analyze what pokemon could be used better in different situations and with which abilities
 
-# code style
+# Code Style
 
 standard kotlin
 
